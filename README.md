@@ -48,6 +48,10 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 
 - [AvS_ScopeHint](https://github.com/avstudnitz/AvS_ScopeHint)
 
+#### Require Dev (Tests are not mandatory for this section)
+
+- [Codesniffer](https://github.com/magento-ecg/coding-standard)
+
 ### Paid
 
 - [Modulwerft_AutomaticCrossselling](https://en.modulwerft.com/magento-automatic-cross-selling.html)
