@@ -1,0 +1,20 @@
+<!-- Please fill in the **bold** fields -->
+
+
+**[Explain what this contribution is about and why it should be included here.]**
+
+
+# By submitting this pull request I confirm I've read and complied with the below requirements.
+
+Failure to properly do so will just result in the pull request being closed and everyone's time wasted. Please read it twice. Most people miss many things.
+
+- I have read and understood the [contribution guidelines](https://github.com/DavidLambauer/awesome-magento/blob/master/contributing.md).
+- This pull request has a descriptive title. For example, `Add Name of List`, not `Update readme.md` or `Add awesome Magento list`.
+- The entry in the Awesome list should include a short description about the list project/theme (not the list itself), and should be added at the bottom of the appropriate category.
+- The list I added
+	- is the result of hard work and is the best I could possibly produce,
+	- is not a duplicate,
+	- has been checked for inconsistent formatting, spelling, and grammar:
+		- Each link description starts with an uppercase character and ends with a period.
+		- Drop all the `A` / `An` prefixes in the descriptions.
+		- Consistent naming. For example, `Node.js`, not `NodeJS` or `node.js`.
