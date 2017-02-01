@@ -28,8 +28,19 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 
 ## Extensions
 
+### Free
+
 - [AOE Scheduler](https://github.com/AOEpeople/Aoe_Scheduler)
 - [CM Cache Backend File](https://github.com/colinmollenhour/Cm_Cache_Backend_File)
+
+### Paid
+
+- [Modulwerft_AutomaticCrossselling](https://en.modulwerft.com/magento-automatic-cross-selling.html)
+- [Modulwerft_CouponRemainingValue](https://en.modulwerft.com/magento-coupon-remaining-value.html)
+- [Modulwerft_EmailManager](https://en.modulwerft.com/magento-e-mail-manager.html)
+- [Modulwerft_GiftCard](https://en.modulwerft.com/magento-gift-cards.html)
+- [Modulwerft_NoRoutePage](https://en.modulwerft.com/magento-404-redirects.html)
+- [Shopwerft_BankPaymentReminder](https://en.modulwerft.com/magento-automatic-bank-payment-reminder.html)
 
 ## Blogs
 
