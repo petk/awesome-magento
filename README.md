@@ -45,4 +45,4 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 
 ## Official Resources
 
-- Be the first one who adds an awesome resource!
+- [Magento Forum](https://community.magento.com/)
