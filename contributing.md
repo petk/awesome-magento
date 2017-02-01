@@ -7,7 +7,7 @@
 
 ## General Quality Standard
 
-To stay on the list, projects should follow these quality standards:
+To get on the list, PR's should follow some quality standards. They should:
 
 * Generally useful to the community
 * Actively maintained (even if that just means acknowledging open issues when they arise)
@@ -18,9 +18,9 @@ To stay on the list, projects should follow these quality standards:
 
 To add an awesome Magento related extension, there are some additional Quality Gates to pass:
 
-* Make sure your Extension followed the [Magento Code Style](http://devdocs.magento.com/guides/v2.0/coding-standards/bk-coding-standards.html) 
+* Make sure your Code follows the [Magento Code Style](http://devdocs.magento.com/guides/v2.0/coding-standards/bk-coding-standards.html) 
 * Make sure your Extension's README explains the following parts:
- * General Purpose
+ * General Purpose of the Extension
  * How to Install
  * Supported Magento Versions
  * Requirements (e.g. PHP Version)
@@ -32,6 +32,6 @@ For Magento 1 Extensions, there is no need to pass every quality gate. I know it
 
 > These Extensions are battleproofed by a huge community of experts, they are supported and I will get an answer if I'll stuck.
 
-If you need help to pass the quality gates, add it to the PR too. 
+If you need help to pass the quality gates, add your questions to the PR too. 
 
 Thanks to all contributors, you're awesome and wouldn't be possible without you!
