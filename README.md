@@ -32,6 +32,8 @@
 
 ## Learning
 
-## Jobs
+## Platforms
+
+- [Commercehero](https://commercehero.io/)
 
 ## Official Resources
