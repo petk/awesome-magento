@@ -69,7 +69,7 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 ## Platforms
 
 - [Commercehero](https://commercehero.io/)
-- [Stackexchange](http://magento.stackexchange.com/)
+- [StackExchange](http://magento.stackexchange.com/)
 
 ## Official Resources
 
