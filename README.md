@@ -28,12 +28,21 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 
 ## Extensions
 
+- [AOE Scheduler](https://github.com/AOEpeople/Aoe_Scheduler)
+- [CM Cache Backend File](https://github.com/colinmollenhour/Cm_Cache_Backend_File)
+
 ## Blogs
 
+- Be the first one who adds an awesome resource!
+
 ## Learning
+
+- Be the first one who adds an awesome resource!
 
 ## Platforms
 
 - [Commercehero](https://commercehero.io/)
 
 ## Official Resources
+
+- Be the first one who adds an awesome resource!
