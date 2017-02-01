@@ -4,8 +4,7 @@
 
 <h1 align="center">
 	<br>
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-  	<img width="200" src="http://logonoid.com/images/magento-logo.png" alt="Magento">
+	<img width="300" src="https://github.com/DavidLambauer/awesome-magento/blob/master/media/awesome-magento-logo.png" alt="awesome magento logo">
 	<br>
 	<br>
 	<br>
