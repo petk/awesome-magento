@@ -8,6 +8,7 @@
 
 Failure to properly do so will just result in the pull request being closed and everyone's time wasted. Please read it twice. Most people miss many things.
 
+- *If this Pull Request contains an Extension, I made sure that it contains Tests*
 - I have read and understood the [contribution guidelines](https://github.com/DavidLambauer/awesome-magento/blob/master/contributing.md).
 - This pull request has a descriptive title. For example, `Add Name of List`, not `Update readme.md` or `Add awesome Magento list`.
 - The entry in the Awesome list should include a short description about the list project/theme (not the list itself), and should be added at the bottom of the appropriate category.
