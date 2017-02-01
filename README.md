@@ -22,7 +22,7 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 - [Extensions](#extensions)
 - [Blogs](#blogs)
 - [Learning](#learning)
-- [Jobs](#jobs)
+- [Platform](#platform)
 - [Official Resources](#official)
 
 
