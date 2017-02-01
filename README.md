@@ -59,7 +59,8 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 
 ## Blogs
 
-- Be the first one who adds an awesome resource!
+- [Alan Storm](http://alanstorm.com/category/magento/)
+- [inchoo](http://inchoo.net/category/magento/)
 
 ## Learning
 
