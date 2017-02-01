@@ -31,7 +31,12 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 ### Free
 
 - [AOE Scheduler](https://github.com/AOEpeople/Aoe_Scheduler)
+- [AvS_ScopeHint](https://github.com/avstudnitz/AvS_ScopeHint)
 - [CM Cache Backend File](https://github.com/colinmollenhour/Cm_Cache_Backend_File)
+- [Fooman_EmailAttachments](https://github.com/fooman/emailattachments/)
+- [Fooman_GoogleAnalyticsPlus](https://github.com/fooman/googleanalyticsplus)
+- [Inchoo_PHP7](https://github.com/Inchoo/Inchoo_PHP7)
+- [Lesti_Fpc](https://github.com/GordonLesti/Lesti_Fpc)
 
 ### Paid
 
