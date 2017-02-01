@@ -20,11 +20,16 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 ## Contents
 
 - [Extensions](#extensions)
+- [Tools](#tools)
 - [Blogs](#blogs)
 - [Learning](#learning)
 - [Platform](#platform)
 - [Official Resources](#official)
 
+
+## Tools
+
+- [n98-magerun](http://magerun.net/)
 
 ## Extensions
 
