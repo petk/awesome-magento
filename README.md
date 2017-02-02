@@ -19,12 +19,22 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 
 - [Tools](#tools)
 - [Extensions](#extensions)
+ - [Open Source](#open-source)
+   - [Marketing](#marketing)
+    - [Utilities](#utilities) 
+    - [Performance](#performance)
+    - [UX / Design / Usability](#ux--design--usability)
+    - [Require Dev (Tests are not mandatory for this section)](#require-dev-tests-are-not-mandatory-for-this-section)
+    - [Language Packs](#language-packs)
+    - [Security](#security)
+    - [Import / Export](#import--export)
+ - [Paid](#paid)
 - [Blogs](#blogs)
 - [Learning](#learning)
 - [Platforms](#platforms)
 - [Podcasts](#podcasts)
 - [Youtube Channels](#youtube-channels)
-- [Official Resources](#official)
+- [Official Resources](#official-resources)
 
 
 ## Tools
