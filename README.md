@@ -107,7 +107,7 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 
 ## Learning
 
-- Be the first one who adds an awesome resource!
+- [Grokking Magento](https://shop.vinaikopp.com/grokking-magento/#!/home) :book:
 
 ## Platforms
 
