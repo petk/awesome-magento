@@ -28,6 +28,8 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 ## Tools
 
 - [n98-magerun](http://magerun.net/)
+- [Modman - Module Management](https://github.com/colinmollenhour/modman)
+- [HarrisStreet Config Management](https://github.com/Zookal/HarrisStreet-ImpEx)
 
 ## Extensions
 
@@ -41,7 +43,10 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 
 - [AOE Scheduler](https://github.com/AOEpeople/Aoe_Scheduler)
 - [Inchoo_PHP7](https://github.com/Inchoo/Inchoo_PHP7)
-<!-- - [Fooman_EmailAttachments](https://github.com/fooman/emailattachments/)-->
+- [Fooman_EmailAttachments](https://github.com/fooman/emailattachments/)
+- [Noovias Task](https://github.com/noovias/ext.magento.noovias.extensions)
+- [Noovias Cron](https://github.com/noovias/ext.magento.noovias.cron)
+- [Yireo E-Mail Tester](https://www.yireo.com/software/magento-extensions/emailtester/downloads)
 
 #### Performance
 - [Lesti_Fpc](https://github.com/GordonLesti/Lesti_Fpc)
@@ -90,6 +95,9 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 - [Mage Report](https://www.magereport.com/)
 
 
+#### Import / Export
+
+- [AVS FastSimpleImport](https://github.com/avstudnitz/AvS_FastSimpleImport)
 
 ### Paid
 
