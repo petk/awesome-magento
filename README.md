@@ -17,11 +17,13 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 
 ## Contents
 
-- [Extensions](#extensions)
 - [Tools](#tools)
+- [Extensions](#extensions)
 - [Blogs](#blogs)
 - [Learning](#learning)
-- [Platform](#platform)
+- [Platforms](#platforms)
+- [Podcasts](#podcasts)
+- [Youtube Channels](#youtube-channels)
 - [Official Resources](#official)
 
 
