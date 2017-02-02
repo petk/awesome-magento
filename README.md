@@ -30,6 +30,7 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 - [n98-magerun](http://magerun.net/)
 - [Modman - Module Management](https://github.com/colinmollenhour/modman)
 - [HarrisStreet Config Management](https://github.com/Zookal/HarrisStreet-ImpEx)
+- [Magicento IDE Helper](http://magicento.com/) :moneybag:
 
 ## Extensions
 
