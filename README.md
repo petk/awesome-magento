@@ -124,6 +124,17 @@ Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://githu
 - [Commercehero](https://commercehero.io/)
 - [StackExchange](http://magento.stackexchange.com/)
 
+## Podcasts
+
+- [MageTalk: A Magento Community Podcast](http://magetalk.com/)
+
+
+## Youtube Channels
+
+- [MagenTube with Rebecca Troth](https://www.youtube.com/channel/UCOt6RkhO3HW2g3PirIP-zMQ)
+- [Mage2Katas with Vinai Kopp](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
+- [MageEngage with David Manners](https://www.youtube.com/channel/UCmceWHPxpYr2FaMe4M-H1ZQ)
+
 ## Official Resources
 
 - [Magento Official Website](https://www.magento.com)
