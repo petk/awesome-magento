@@ -46,7 +46,6 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 - [Fooman_EmailAttachments](https://github.com/fooman/emailattachments/)
 - [Noovias Task](https://github.com/noovias/ext.magento.noovias.extensions)
 - [Noovias Cron](https://github.com/noovias/ext.magento.noovias.cron)
-- [Yireo E-Mail Tester](https://www.yireo.com/software/magento-extensions/emailtester/downloads)
 
 #### Performance
 - [Lesti_Fpc](https://github.com/GordonLesti/Lesti_Fpc)
@@ -59,6 +58,7 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 #### Require Dev (Tests are not mandatory for this section)
 
 - [Codesniffer](https://github.com/magento-ecg/coding-standard)
+- [Yireo E-Mail Tester](https://www.yireo.com/software/magento-extensions/emailtester/downloads)
 
 #### Language Packs
 
