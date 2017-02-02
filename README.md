@@ -54,6 +54,7 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 #### UX / Design / Usability
 
 - [AvS_ScopeHint](https://github.com/avstudnitz/AvS_ScopeHint)
+- [Fbrnc Design Fallback](https://github.com/fbrnc/Aoe_DesignFallback)
 
 #### Require Dev (Tests are not mandatory for this section)
 
