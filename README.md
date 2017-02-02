@@ -84,13 +84,10 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs! 
 
 
+#### Security
 
-
-
-
-
-
-
+- [Magento Malware Scanner](https://github.com/gwillem/magento-malware-scanner)
+- [Mage Report](https://www.magereport.com/)
 
 
 
