@@ -76,28 +76,28 @@ You might be interested in the [Awesome List for Magento 2](https://github.com/D
 
 #### Language Packs
 
-- [da_DK](https://magentodanmark.dk/)
-- [de_AT](https://github.com/MaWoScha/German_LocalePack_de_AT) :de:
-- [de_CH](https://github.com/MaWoScha/German_LocalePack_de_CH) :de:
-- [de_DE](https://github.com/MaWoScha/German_LocalePack_de_DE) :de:
-- [de_DE](https://github.com/riconeitzel/German_LocalePack_de_DE) :de:
-- [en_AU](https://github.com/MaWoScha/German_LocalePack_en_AU) :gb: :us:
-- [en_GB](https://github.com/MaWoScha/German_LocalePack_en_GB) :gb: :us:
-- [en_HK](https://github.com/MaWoScha/German_LocalePack_en_HK) :gb: :us:
-- [en_ZA](https://github.com/MaWoScha/German_LocalePack_en_ZA) :gb: :us:
-- [es_AR](https://github.com/MaWoScha/German_LocalePack_es_AR) :es:
-- [es_CL](https://github.com/MaWoScha/German_LocalePack_es_CL) :es:
-- [es_CO](https://github.com/MaWoScha/German_LocalePack_es_CO) :es:
+- [da_DK](https://magentodanmark.dk/) 🇩🇰
+- [de_AT](https://github.com/MaWoScha/German_LocalePack_de_AT) 🇦🇹
+- [de_CH](https://github.com/MaWoScha/German_LocalePack_de_CH) 🇨🇭
+- [de_DE by MaWoScha](https://github.com/MaWoScha/German_LocalePack_de_DE) 🇩🇪
+- [de_DE by Rico Neitzel](https://github.com/riconeitzel/German_LocalePack_de_DE) 🇩🇪
+- [en_AU](https://github.com/MaWoScha/German_LocalePack_en_AU) 🇦🇺
+- [en_GB](https://github.com/MaWoScha/German_LocalePack_en_GB) 🇬🇧
+- [en_HK](https://github.com/MaWoScha/German_LocalePack_en_HK) 🇭🇰
+- [en_ZA](https://github.com/MaWoScha/German_LocalePack_en_ZA) 🇿🇦
+- [es_AR](https://github.com/MaWoScha/German_LocalePack_es_AR) 🇦🇷
+- [es_CL](https://github.com/MaWoScha/German_LocalePack_es_CL) 🇨🇱
+- [es_CO](https://github.com/MaWoScha/German_LocalePack_es_CO) 🇨🇴
 - [es_ES](https://github.com/MaWoScha/German_LocalePack_es_ES) :es:
-- [es_MX](https://github.com/MaWoScha/German_LocalePack_es_MX) :es:
-- [fr_CA](https://github.com/MaWoScha/German_LocalePack_fr_CA) :fr:
-- [fr_FR](http://www.bkm.uno/services-additionnels/magento-pack-fr-1-9-1.html) :fr:
-- [hu_HU](https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU)
-- [it_IT](https://github.com/MaWoScha/German_LocalePack_it_IT) :it:
-- [it_IT](https://bitbucket.org/bitbull/magento-translations-it) :it:
-- [nl_NL](https://github.com/ho-nl/magento1-Ho_nl_NL) 
-- [pl_PL](https://github.com/SnowdogApps/MagentoEE-Translation-pl_PL) 
-- [pt_PT](https://github.com/MaWoScha/German_LocalePack_pt_PT) 
+- [es_MX](https://github.com/MaWoScha/German_LocalePack_es_MX) 🇲🇽
+- [fr_CA](https://github.com/MaWoScha/German_LocalePack_fr_CA) 🇨🇦🇫🇷
+- [fr_FR](http://www.bkm.uno/services-additionnels/magento-pack-fr-1-9-1.html) 🇫🇷
+- [hu_HU](https://github.com/versedi/Magento-Locales/tree/master/app/locale/hu_HU) 🇭🇺
+- [it_IT by MaWoScha](https://github.com/MaWoScha/German_LocalePack_it_IT) 🇮🇹
+- [it_IT by BitBull](https://bitbucket.org/bitbull/magento-translations-it) 🇮🇹
+- [nl_NL](https://github.com/ho-nl/magento1-Ho_nl_NL) 🇳🇱
+- [pl_PL](https://github.com/SnowdogApps/MagentoEE-Translation-pl_PL) 🇵🇱
+- [pt_PT](https://github.com/MaWoScha/German_LocalePack_pt_PT) 🇵🇹
 - [ur_UR](https://github.com/MaWoScha/German_LocalePack_ur_UR) 
 
 Thanks [Anna Völkl](https://github.com/avoelkl) & [Sander Mangel](https://github.com/sandermangel) for collecting all the language packs! 
